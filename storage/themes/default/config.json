@@ -1,0 +1,14 @@
+{
+    "name": "Gem Theme",
+    "version": "1.0",
+    "author": "GemPixel",
+    "link": "https://gempixel.com",
+    "date": "25/05/2021",
+    "settings": true,
+    "thumbnail": "",
+    "include":[
+        "class/themeSettings.php",
+        "functions.php"
+    ],
+    "assets":[]
+}
